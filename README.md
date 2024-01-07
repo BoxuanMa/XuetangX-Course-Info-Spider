@@ -21,6 +21,8 @@
 
 ### 运行方法
 
+#### requirements: scrapy 
+
 clone本项目到本地
 
 在项目目录下打开终端
